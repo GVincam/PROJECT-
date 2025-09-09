@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+*{
+    font-family: "Archivo Black", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#headline{
+    
+  background: linear-gradient(to BOTTOM, rgb(0, 40, 170), #006eff) !important;
+  color: white;
+}
+
+#tipografia{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 5rem !important; 
+  color: #ffffff;
+  text-shadow: 
+    0 0 100px rgb(0, 26, 255),
+    0 0 0px rgb(255, 255, 255),
+    0 0 15px rgb(255, 255, 255),
+    0 0 0px rgb(255, 255, 255),
+    0 0 50px rgb(255, 255, 255);
+  animation: brilho 2s infinite alternate;
+}
+
+#tipografia2{
+    text-align: center;
+    font-size: 4rem !important; 
+  color: #ffffff;
+    text-shadow: 
+    0 0 100px rgb(0, 26, 255),
+    0 0 0px rgb(255, 255, 255),
+    0 0 15px rgb(255, 255, 255),
+    0 0 0px rgb(255, 255, 255),
+    0 0 50px rgb(255, 255, 255);
+
+}
+
+
+#placa{
+    
+    width: 400px;
+}
+
+#padrao2{
+    width: 400px;
+}
+
+#condicionado{
+    width: 400px;
+}
